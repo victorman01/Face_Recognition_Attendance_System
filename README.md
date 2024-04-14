@@ -1,4 +1,4 @@
-# :warning: DON'T FORGET TO CREATE FOLDERS NAMED "images" AND "models" :warning:
+# :warning: Ensure to create folders named "images" and "models". :warning:
 
 ## ENGLISH VERSION
 
