@@ -1,4 +1,4 @@
-<h1>ENGLISH VERSION</h1>
+<h1 align="center">ENGLISH VERSION</h1>
 <h1>Face Recognition Attendance System</h1>
 <h2>Overview</h2>
 <p>Face Recognition Attendance System is a project aimed at implementing an attendance system based on face recognition using image processing and machine learning technology. This project allows for face registration, face recognition model training, and face recognition-based attendance.</p>
@@ -51,7 +51,7 @@
 <h2>Developer</h2>
 <p>This project was developed by Victor Manuel Soesilo and is available on <a href="https://github.com/victorman01/">GitHub Profile</a>.</p>
 
-<h1>INDONESIAN VERSION</h1>
+<h1 align="center">INDONESIAN VERSION</h1>
 <h1>Sistem Absensi Berbasis Pengenalan Wajah</h1>
 
 <h2>Deskripsi</h2>
